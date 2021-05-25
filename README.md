@@ -4,6 +4,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on: 
-- - [Node.js](https://github.com/nodejs/node).
-- - [V8 JavaScript Engine](https://github.com/v8/v8).
+I’m currently working on: 
+- [Node.js](https://github.com/nodejs/node).
+- [V8 JavaScript Engine](https://github.com/v8/v8).
