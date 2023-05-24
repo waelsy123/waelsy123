@@ -5,6 +5,7 @@
 Here are some ideas to get you started:
 
 I’m currently working on: 
+- Solidity Protocols
 - [Cosmos SDK](https://github.com/cosmos/cosmos-sdk).
 - [Node.js](https://github.com/nodejs/node).
 
